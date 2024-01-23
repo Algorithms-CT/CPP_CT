@@ -1,4 +1,4 @@
-# C++-CT
+# C++_CT
 
 ## C++을 통해 Algorithm을 배우는 공간
 
