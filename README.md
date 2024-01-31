@@ -1,4 +1,4 @@
-# C++_CT
+# C++_CT   <img src="https://img.shields.io/badge/C++-512BD4?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
 ## C++을 통해 Algorithm을 배우는 공간
 
